@@ -1,0 +1,10 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.6
+speech-recognition==3.10.0
+langgraph
+langchain
+langchain-google-genai
+pymongo
+python-dotenv
+pydantic==2.5.0
